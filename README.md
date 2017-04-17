@@ -1,4 +1,4 @@
-#angular2 - Advanced Routing and Services
+# Advanced Routing and Services with Angular2
 
 <a href="https://angular.io/docs/ts/latest/api/">Angular2 Docs</a>
 
