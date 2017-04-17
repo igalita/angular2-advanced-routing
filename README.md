@@ -1,6 +1,6 @@
 # Advanced Routing and Services with Angular2
 
-[![Build Status](https://travis-ci.org/xeqtor/angular-advanced-routing.svg?branch=master)](https://travis-ci.org/xeqtor/angular-advanced-routing)
+[![Build Status](https://travis-ci.org/xeqtor/angular2-advanced-routing.svg?branch=master)](https://travis-ci.org/xeqtor/angular2-advanced-routing)
 
 <a href="https://angular.io/docs/ts/latest/api/">Angular2 Docs</a>
 
